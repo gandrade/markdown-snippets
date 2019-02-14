@@ -1,0 +1,9 @@
+WARNING: In order to move forward, this https://github.com/github/markup/issues/1095[issue] should be finished first, otherwise we aren't able to render AsciiDoc files using the directive `include`
+
+include::header.adoc[]
+
+include::content.adoc[]
+
+include::profile.adoc[]
+
+include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/README.adoc[]
